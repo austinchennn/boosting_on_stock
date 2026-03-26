@@ -1,0 +1,20 @@
+# Dataset (Large files)
+final_dataset_with_time_features/
+outputs/
+*.parquet
+
+# Environment
+.conda/
+env/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editor / IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Documentation & Temporary files
+操作指南.pdf
+*.log
